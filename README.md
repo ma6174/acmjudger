@@ -14,9 +14,9 @@
 
 了解更多关于ACM的信息可以参考：
 
-百度百科：[http://baike.baidu.com/view/201684.htm](http://baike.baidu.com/view/201684.htm)
-维基百科：[http://zh.wikipedia.org/wiki/ACM国际大学生程序设计竞赛](http://zh.wikipedia.org/wiki/ACM国际大学生程序设计竞赛)
-ACM国际大学生程序设计竞赛指南:[http://xinxi.100xuexi.com/view/trend/20120328/47133.html](http://xinxi.100xuexi.com/view/trend/20120328/47133.html)
+- 百度百科：[http://baike.baidu.com/view/201684.htm](http://baike.baidu.com/view/201684.htm)
+- 维基百科：[http://zh.wikipedia.org/wiki/ACM国际大学生程序设计竞赛](http://zh.wikipedia.org/wiki/ACM国际大学生程序设计竞赛)
+- ACM国际大学生程序设计竞赛指南:[http://xinxi.100xuexi.com/view/trend/20120328/47133.html](http://xinxi.100xuexi.com/view/trend/20120328/47133.html)
 
 ### 什么是ACM测评系统？
 
