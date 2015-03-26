@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo kill `ps aux | egrep "^nobody .*? protect.py" | cut -d " "  -f4`
+sudo kill `ps aux | egrep "^nobody .*? protect.py" | awk '{print $2}'`
 sudo nohup python protect.py &
